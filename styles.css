@@ -25,3 +25,8 @@ a {
     margin: 16px;
     display: inline-block;
 }
+
+img {
+	height: 400px;
+	width: 350px;
+}
